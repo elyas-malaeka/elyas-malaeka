@@ -68,3 +68,4 @@ If you would like to get in touch, feel free to send me an [email](mailto:Elyasm
 ---
 
 Feel free to adjust any part of the text to better suit your style or preferences!
+[![roadmap.sh](https://roadmap.sh/card/wide/66743b5bdf3918909e67d286?variant=dark)](https://roadmap.sh)
