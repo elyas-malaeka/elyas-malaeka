@@ -1,6 +1,6 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Elyas Malaeka
-<span text-align: justify;>
+
 I'm a developer and graphic designer based in Dubai, UAE, with a strong set of skills in both web development and creative design. My focus is on providing practical solutions and delivering visually appealing work.<img width="30" height="30" src="https://img.icons8.com/color/100/000000/kali-linux.png" alt="kali-linux"/>
 
 ## 🎨 Artistic Skills
@@ -24,4 +24,4 @@ This perpetual curiosity and pursuit in both domains are my main motivations for
 ## 🔍 Connect with Me
 If you would like to get in touch, feel free to send me an [email](mailto:Elyasmalaeka@gmail.com). You can also connect with me on social media through the links below and check out my visual work on the respective platforms. I look forward to hearing your thoughts!
 <a href="https://t.me/elyas_malaeka"> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Telegram&svgfill=df5c43"> </a> <a href="https://www.figma.com/@elyas_malaeka"> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Figma&svgfill=f6df1c"> </a> <a href="https://dribbble.com/elyas-malaeka"> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Dribbble&svgfill=f6df1c"> </a> <a href="https://www.behance.net/elyas_malaeka/"> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Behance&svgfill=f6df1c"> </a>
-</span>
+
