@@ -29,6 +29,6 @@ If you would like to get in touch, feel free to send me an [email](mailto:Elyasm
 
 
 
-[![FA](https://img.shields.io/badge/%D8%B2%D8%A8%D8%A7%D9%86-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-blue)](README_FA.md)
+[![FA](https://img.shields.io/badge/Language-Persian-blue)](README_FA.md)
 [![EN](https://img.shields.io/badge/Language-English-green)](README_EN.md)
 
