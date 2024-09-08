@@ -25,6 +25,6 @@
 
 
 
-[![EN](https://img.shields.io/badge/Language-English-green)](README_EN.md)
+[![EN](https://img.shields.io/badge/Language-English-green)](README.md)
 
 
