@@ -30,5 +30,5 @@ If you would like to get in touch, feel free to send me an [email](mailto:Elyasm
 
 
 [![FA](https://img.shields.io/badge/Language-Persian-blue)](README_FA.md)
-[![EN](https://img.shields.io/badge/Language-English-green)](README_EN.md)
+
 
