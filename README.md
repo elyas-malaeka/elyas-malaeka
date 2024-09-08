@@ -27,3 +27,7 @@ If you would like to get in touch, feel free to send me an [email](mailto:Elyasm
 
 <a href="https://t.me/elyas_malaeka"> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Telegram&svgfill=df5c43"> </a> <a href="https://www.figma.com/@elyas_malaeka"> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Figma&svgfill=f6df1c"> </a> <a href="https://dribbble.com/elyas-malaeka"> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Dribbble&svgfill=f6df1c"> </a> <a href="https://www.behance.net/elyas_malaeka/"> <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Behance&svgfill=f6df1c"> </a>
 
+
+
+[![FA](https://img.shields.io/badge/زبان-فارسی-blue)](README_FA.md) 
+[![EN](https://img.shields.io/badge/Language-English-green)](README_EN.md)
