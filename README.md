@@ -113,9 +113,7 @@ mindmap
 
 ### 💭 Words of Wisdom
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
-
+    
 ### *"The worth of every person is in what they master and excel at."*
 ### *– Amir al-Mu'minin, Imam Ali (AS)*
 
