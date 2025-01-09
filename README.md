@@ -111,9 +111,17 @@ mindmap
 ### 💌 Get in Touch
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Elyasmalaeka@gmail.com)
 
-### 💡 Random Dev Quote
+### 💭 Words of Wisdom
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
+### *"The worth of every person is in what they master and excel at."*
+### *– Amir al-Mu'minin, Imam Ali (AS)*
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,16&height=120&section=footer)
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,16&height=120&section=footer)
