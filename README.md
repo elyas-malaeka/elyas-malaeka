@@ -94,53 +94,26 @@ mindmap
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=elyas-malaeka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" width="100%" alt="Trophy" />
-</div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=elyas-malaeka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=elyas-malaeka&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=elyas-malaeka&bg_color=0d1117&color=38bdf8&line=38bdf8&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-    </td>
-  </tr>
-</table>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elyas-malaeka&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🌐 Let's Connect
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=elyas-malaeka&count_private=true&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117" alt="elyas-malaeka" /> <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=elyas-malaeka&theme=algolia&hide_border=true&background=0d1117" alt="elyas-malaeka" />
 
-<div align="center">
+[![Elyas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elyas-malaeka&theme=react-dark&hide_border=true&bg_color=0d1117&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elyas_malaeka)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/elyas_malaeka)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/elyas-malaeka)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@elyas_malaeka)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+### 📱 Connect & Follow
+
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elyas_malaeka)
+[![Behance](https://img.shields.io/badge/Behance-%231769FF.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/elyas_malaeka)
+[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/elyas-malaeka)
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@elyas_malaeka)
+
+### 💌 Get in Touch
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Elyasmalaeka@gmail.com)
 
-### 📫 Drop a line at [Elyasmalaeka@gmail.com](mailto:Elyasmalaeka@gmail.com)
+### 💡 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 </div>
 
-## 🎵 Vibing to
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&background_color=0d1117&bar_color=38bdf8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=120&section=footer)
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
-
-### Show some ❤️ by starring repositories that you find good!
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,16&height=120&section=footer)
