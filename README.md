@@ -2,9 +2,10 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=300&section=header&text=Elyas%20Malaeka&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20with%20Code%20and%20Design&descAlignY=51&descAlign=62&fontColor=fff)
 
+```
 [![Profile Views](https://komarev.com/ghpvc/?username=elyas-malaeka&style=for-the-badge&color=blueviolet)](https://github.com/elyas-malaeka)
 [![Persian](https://img.shields.io/badge/🌟_Persian_Version-4A90E2?style=for-the-badge)](README_FA.md)
-
+```
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Motion+Designer+%F0%9F%8E%AC;Creative+Professional+%E2%9C%A8;Based+in+Dubai%2C+UAE+%F0%9F%8C%87" alt="Typing SVG" /></a>
 
 </div>
