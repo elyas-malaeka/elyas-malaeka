@@ -19,20 +19,17 @@
 ```javascript
 const elyas = {
     location: "Dubai, UAE 🌇",
-    roles: ["Full-Stack Developer", "UI/UX Designer", "Motion Designer"],
+    roles: ["Full-Stack Developer", "UI/UX Designer", "Logo Designer"],
     worksWith: {
         languages: ["JavaScript", "Python", "PHP", "HTML5", "CSS3"],
-        frameworks: ["React", "Vue.js", "Laravel", "Django"],
-        databases: ["MySQL", "MongoDB", "PostgreSQL"],
-        tools: ["Git", "Docker", "AWS", "Firebase"]
+        databases: ["MySQL", "MongoDB"],
     },
     creativeSuite: {
         design: ["Figma", "Photoshop", "Illustrator", "InDesign"],
         motion: ["After Effects", "Premiere Pro"],
-        prototyping: ["Principle", "ProtoPie"]
     },
     interests: ["Quantum Physics", "Theory of Relativity", "Philosophy"],
-    currentlyLearning: ["Machine Learning", "ThreeJS", "WebGL"],
+    currentlyLearning: ["Machine Learning"],
     funFact: "I believe creativity is intelligence having fun! 🎨"
 };
 ```
@@ -68,10 +65,6 @@ const elyas = {
 mindmap
   root((Elyas's World))
     Development
-      Frontend Excellence
-        React Mastery
-        Vue.js Expertise
-        ThreeJS Animation
       Backend Power
         API Architecture
         Microservices
@@ -79,11 +72,6 @@ mindmap
     Creative Design
       UI/UX Innovation
         User Research
-        Wireframing
-        Prototyping
-      Motion Graphics
-        3D Animation
-        Visual Effects
     Scientific Pursuits
       Quantum Physics
       Relativity Theory
