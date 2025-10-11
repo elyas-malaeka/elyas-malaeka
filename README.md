@@ -4,7 +4,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=elyas-malaeka&style=for-the-badge&color=blueviolet)](https://github.com/elyas-malaeka)
 [![Persian](https://img.shields.io/badge/🌟_Persian_Version-4A90E2?style=for-the-badge)](README_FA.md)
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Motion+Designer+%F0%9F%8E%AC;Creative+Professional+%E2%9C%A8;Based+in+Dubai%2C+UAE+%F0%9F%8C%87" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Web+Developer+%F0%9F%92%BB;UI%2F+Designer+%F0%9F%8E%A8;" alt="Typing SVG" /></a>
 
 </div>
 
