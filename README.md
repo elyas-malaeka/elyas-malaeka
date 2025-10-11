@@ -14,18 +14,15 @@
 ```javascript
 const elyas = {
     location: "Dubai, UAE 🌇",
-    roles: ["Full-Stack Developer", "UI/UX Designer", "Logo Designer"],
+    roles: ["Web Developer", "UI Designer"],
     worksWith: {
-        languages: ["JavaScript", "Python", "PHP", "HTML5", "CSS3"],
-        databases: ["MySQL", "MongoDB"],
+        languages: ["JavaScript", "PHP", "HTML5", "CSS3"],
+        databases: ["MySQL"],
     },
     creativeSuite: {
         design: ["Figma", "Photoshop", "Illustrator", "InDesign"],
-        motion: ["After Effects", "Premiere Pro"],
+        motion: ["Premiere Pro"],
     },
-    interests: ["Quantum Physics", "Theory of Relativity", "Philosophy"],
-    currentlyLearning: ["Machine Learning"],
-    funFact: "I believe creativity is intelligence having fun! 🎨"
 };
 ```
 
