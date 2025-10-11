@@ -33,32 +33,31 @@ const elyas = {
 <td align="center" width="50%">
 
 ### 🎨 Creative Arsenal
-<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma,blender" />
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,figma" />
 <br/>
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&lineCount=2&theme=github_dark&line1=adobe,Photoshop,31A8FF;adobe,Illustrator,FF9A00;adobe,AfterEffects,CF96FD;&line2=adobe,PremierePro,9999FF;figma,Figma,F24E1E;blender,Blender,E87D0D;" alt="Design Stack"/>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&lineCount=2&theme=github_dark&line1=adobe,Photoshop,31A8FF;adobe,Illustrator,FF9A00;&line2=adobe,PremierePro,9999FF;figma,Figma,F24E1E;" alt="Design Stack"/>
 
 </td>
 <td align="center" width="50%">
 
 ### 💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=js,py,php,react,vue,laravel" />
+<img src="https://skillicons.dev/icons?i=js,py,php," />
 <br/>
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&lineCount=2&theme=github_dark&line1=JavaScript,JavaScript,F7DF1E;Python,Python,3776AB;PHP,PHP,777BB4;&line2=React,React,61DAFB;Vue.js,Vue.js,4FC08D;Laravel,Laravel,FF2D20;" alt="Dev Stack"/>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&lineCount=2&theme=github_dark&line1=JavaScript,JavaScript,F7DF1E;Python,Python,3776AB;PHP,PHP,777BB4;" alt="Dev Stack"/>
 
 </td>
 </tr>
 </table>
 
 
-### 📱 Connect & Follow
+## 📫 Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elyas_malaeka)
-[![Behance](https://img.shields.io/badge/Behance-%231769FF.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/elyas_malaeka)
-[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/elyas-malaeka)
-[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@elyas_malaeka)
+<div align="center">
 
-### 💌 Get in Touch
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Elyasmalaeka@gmail.com)
+[![Email](https://img.shields.io/badge/Email-elyasmalaeka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elyasmalaeka@gmail.com)
+[![Website](https://img.shields.io/badge/Website-armanegar.com-4CAF50?style=for-the-badge&logo=safari&logoColor=white)](https://armanegar.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elyas_Malaeka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elyas-malaeka/)
+[![Telegram](https://img.shields.io/badge/Telegram-@elyas__malaeka-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elyas_malaeka)
 
-
+</div>
 </div>
