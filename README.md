@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=300&section=header&text=Elyas%20Malaeka&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20with%20Code%20and%20Design&descAlignY=51&descAlign=62&fontColor=fff)
-
 <!-- 
 [![Profile Views](https://komarev.com/ghpvc/?username=elyas-malaeka&style=for-the-badge&color=blueviolet)](https://github.com/elyas-malaeka)
 [![Persian](https://img.shields.io/badge/🌟_Persian_Version-4A90E2?style=for-the-badge)](README_FA.md)
