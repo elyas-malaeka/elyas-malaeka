@@ -55,16 +55,6 @@ const elyas = {
 </table>
 
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elyas-malaeka&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=elyas-malaeka&count_private=true&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117" alt="elyas-malaeka" /> <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=elyas-malaeka&theme=algolia&hide_border=true&background=0d1117" alt="elyas-malaeka" />
-
-[![Elyas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elyas-malaeka&theme=react-dark&hide_border=true&bg_color=0d1117&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### 📱 Connect & Follow
 
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elyas_malaeka)
