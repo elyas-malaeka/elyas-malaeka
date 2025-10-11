@@ -9,22 +9,25 @@
 </div>
 
 
-## 💫 About Me
 
+## 💫 About Me
 ```javascript
 const elyas = {
-    location: "Dubai, UAE 🌇",
-    roles: ["Web Developer", "UI Designer"],
+    roles: ["Web Developer", "UI Designer", "Logo Designer"],
     worksWith: {
         languages: ["JavaScript", "PHP", "HTML5", "CSS3"],
         databases: ["MySQL"],
+        cms: ["WordPress"]
     },
     creativeSuite: {
-        design: ["Figma", "Photoshop", "Illustrator", "InDesign"],
-        motion: ["Premiere Pro"],
+        design: ["Figma", "Photoshop", "Illustrator"],
+        video: ["Premiere Pro"]
     },
+    languages: {
+        persian: "Native",
+        english: "Intermediate"
+    }
 };
-```
 
 ## 🎯 Expertise
 
