@@ -28,7 +28,7 @@ const elyas = {
         english: "Intermediate"
     }
 };
-
+```
 ## 🎯 Expertise
 
 <table align="center">
